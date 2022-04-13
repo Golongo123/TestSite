@@ -1,0 +1,29 @@
+.site-header {
+	background: #4a423f;
+	background-color: rgba(211, 211, 211, 0.7);
+	padding: 20px 30px 150px 30px;
+	transition: .5s;
+	width: 50%;
+	float: right;
+	border-radius: 10px;
+}
+
+.site-header h2 {
+	color: #dfdf20;
+	background-position: right 50% bottom 50%;
+}
+
+.weapper-col {
+	width: 70%;
+	background: rgba(211, 211, 211, 0);
+}
+
+.myclass {
+	font-size: 23px;
+	background-position: right 50% bottom 50%;
+}
+
+.morin {
+	padding: 10px 10px;
+	background-position: right 50% bottom 50%;
+}
